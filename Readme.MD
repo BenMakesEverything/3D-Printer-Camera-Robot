@@ -58,7 +58,7 @@ Convert an **Ender 3 V2 (or similar)** into a fully motorized **robotic camera s
 ---
 
 ## 🧩 3D Files
-📂 See the [3D Models folder](./3D%20Models)  
+📂 See the [3D Models folder](./3D-Models)
 
 ---
 
