@@ -54,7 +54,7 @@
 
 ## 3D Files
 
-- 📂 See the [3D Models folder](./3D-Models)
+- 📂 See the [3D Models folder](./3D-Printer-Camera-Robot/tree/main/3D-models)
 
 - Contains a6000 camera model by guileman on Grabcad: https://grabcad.com/library/sony-a6000-1
 ---
