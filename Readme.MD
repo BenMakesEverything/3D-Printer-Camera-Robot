@@ -2,7 +2,6 @@
 ![Diagram](/img/Camera_rig-2.png)
 
 3D Printer converted to a robotic camera rig, for the purposes of capturing cinematic closeup videos as well as automated photogrammetry scans.
----
 
 ## Specs
 - **Base Printer**: Ender 3 V2  
@@ -55,7 +54,7 @@
 
 ## 3D Files
 📂 See the [3D Models folder](./3D-Models)
-
+Conatins a6000 camera model by guileman on Grabcad: https://grabcad.com/library/sony-a6000-1
 ---
 
 ## Firmware
