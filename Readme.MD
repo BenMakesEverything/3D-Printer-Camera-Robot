@@ -56,7 +56,7 @@
 
 - 📂 See the [3D Models folder](./3D-Models)
 
-- Conatins a6000 camera model by guileman on Grabcad: https://grabcad.com/library/sony-a6000-1
+- Contains a6000 camera model by guileman on Grabcad: https://grabcad.com/library/sony-a6000-1
 ---
 
 ## Firmware
