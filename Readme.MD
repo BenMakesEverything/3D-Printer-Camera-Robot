@@ -1,20 +1,16 @@
-# 🎥 3D Printer → Robotic Camera Rig  
-
-Convert an **Ender 3 V2 (or similar)** into a fully motorized **robotic camera system** for:  
-- 📸 **Cinematic close-up videos**  
-- 🖼️ **Automated photogrammetry scans**  
 
 ![Diagram](/img/Camera_rig-2.png)
 
+3D Printer converted to a robotic camera rig, for the purposes of capturing cinematic closeup videos as well as automated photogrammetry scans.
 ---
 
-## 🔧 Specs
+## Specs
 - **Base Printer**: Ender 3 V2  
 - **Firmware**: Custom Marlin build  
 
 ---
 
-## 🛠️ Parts List  
+## Parts List  
 *(with links to recommended components)*  
 
 <details>
@@ -57,10 +53,10 @@ Convert an **Ender 3 V2 (or similar)** into a fully motorized **robotic camera s
 
 ---
 
-## 🧩 3D Files
+## 3D Files
 📂 See the [3D Models folder](./3D-Models)
 
 ---
 
-## 💻 Firmware
-⚙️ Coming soon…
+## Firmware
+Coming soon…
